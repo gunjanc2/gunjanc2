@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Gunjan
-- 👀 I’m interested in Full Stack Development roles, primarily in Java.
-- 🌱 I’m currently learning Advanced Java and Springboot.
-- 💞️ I’m looking to collaborate on any open-source project where I get to apply my learnings.
-- 📫 How to reach me - 
--     LinkedIn:: https://www.linkedin.com/in/gunjan-k-648716169/
+- 👀 I’m have been working for past 3+ years as Java backend developer and would love to explore more opportunities in Backend development.
+- 🌱 I'm currently learning Spring Boot & Microservices and building self projects to be able to code better, debug better and have a clear understanding of the WHATs and WHYs.
+- 💞️ I'm also a an aspiring problem-solver so you can checkout my Leetcode profile below.
+-     Leetcode: https://leetcode.com/u/gunnjanc2/
+- 📫 I'm available at - 
 -     Email: gunnjanc2@gmail.com
+-     LinkedIn:: https://www.linkedin.com/in/gunjan-k-648716169/
